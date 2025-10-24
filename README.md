@@ -74,15 +74,24 @@ To study the steps involved in setting up a private cloud using **AWS** or **Mic
 
 
  VPC / VNet Creation 
+ 
+<img width="1920" height="1200" alt="VPC" src="https://github.com/user-attachments/assets/a631fc4a-4a29-4ba5-8e40-65970527df1e" />
 
  
 Subnets & Routing Configuration 
 
+<img width="1920" height="1200" alt="VPC ROUTING" src="https://github.com/user-attachments/assets/4cecc4ba-25e8-4a79-8e86-0b102341cbba" />
+
+<img width="1920" height="1200" alt="SUBNETS" src="https://github.com/user-attachments/assets/74dd00bf-4683-4ad4-a4e1-1dfbc884363b" />
 
  EC2 / VM Launch 
 
+<img width="1919" height="988" alt="EC2 Instances" src="https://github.com/user-attachments/assets/175dcf06-6a7e-444b-8d2f-4392b87dd4ca" />
+
  
  Network Testing Results 
+
+<img width="1920" height="1200" alt="grade" src="https://github.com/user-attachments/assets/53c4cfac-db45-4f59-9f65-e5fb788dd902" />
 
 ---
 
