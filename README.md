@@ -72,12 +72,17 @@ To study the steps involved in setting up a private cloud using **AWS** or **Mic
 
 ## OUTPUT
 
-| Screenshot | Description |
-|-------------|--------------|
-| ![VPC Dashboard](image1.png) | VPC / VNet Creation |
-| ![Subnet Setup](image2.png) | Subnets & Routing Configuration |
-| ![Instances](image3.png) | EC2 / VM Launch |
-| ![Connectivity Test](image4.png) | Network Testing Results |
+
+ VPC / VNet Creation 
+
+ 
+Subnets & Routing Configuration 
+
+
+ EC2 / VM Launch 
+
+ 
+ Network Testing Results 
 
 ---
 
